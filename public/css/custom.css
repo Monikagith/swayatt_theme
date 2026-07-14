@@ -1,0 +1,60 @@
+/* ==========================================================
+   GLOBAL BUTTON STYLING
+========================================================== */
+
+.btn {
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    transition: all .25s ease;
+}
+
+/* Primary Buttons */
+.btn-primary {
+    background: #0F4C81 !important;
+    border-color: #0F4C81 !important;
+    color: #fff !important;
+}
+
+.btn-primary:hover {
+    background: #0b3a61 !important;
+    border-color: #0b3a61 !important;
+}
+
+/* Secondary */
+.btn-secondary {
+    background: #6c757d !important;
+    border-color: #6c757d !important;
+    color: #fff !important;
+}
+
+/* Success */
+.btn-success {
+    background: #16a34a !important;
+    border-color: #16a34a !important;
+    color: #fff !important;
+}
+
+/* Danger */
+.btn-danger {
+    background: #dc2626 !important;
+    border-color: #dc2626 !important;
+    color: #fff !important;
+}
+
+/* Warning */
+.btn-warning {
+    background: #f59e0b !important;
+    border-color: #f59e0b !important;
+    color: #fff !important;
+}
+
+/* Info */
+.btn-info {
+    background: #0ea5e9 !important;
+    border-color: #0ea5e9 !important;
+    color: #fff !important;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+}
